@@ -46,6 +46,10 @@ Common jobs include:
 
   Runs a simple local web server for the static files in `out`. Uses [BasicServe](https://www.npmjs.com/package/basic-serve).
 
+Other jobs are available; see `jobs.js`.
+
+Custom jobs can easily be added. See the [JR](https://www.npmjs.com/package/jr) documentation.
+
 ## Source
 
 TypeScript source code for a skeleton web app is included.
